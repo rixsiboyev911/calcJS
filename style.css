@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+}
+.input-field {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+
+  font-size: 25px;
+  padding: 10px;
+  margin: 10px;
+  
+}
+.input1 {
+  width: 225px;
+  height: 25px;
+}
+.col {
+  display: flex;
+  justify-content: center;  
+}
+.btn {
+  width: 60px;
+  height: 45px;
+  margin: 5px;
+ background-color: #ffae00;
+  color: #000000;
+}
+
+.card-title {
+  color: red;
+}
+.card-content {
+  background-color: #ffff;
+  border-radius: 40px;
+}
